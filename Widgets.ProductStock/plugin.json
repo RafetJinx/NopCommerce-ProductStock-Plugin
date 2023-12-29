@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Product Stock Plugin",
+  "SystemName": "Widgets.ProductStock",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.60" ],
+  "Author": "re er - brk req",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.ProductStock.dll",
+  "Description": "Product Stock Order By Stock Quantity Plugin"
+}
